@@ -127,17 +127,20 @@
       {
         "id": 1,
         "link": "facebook",
-        "iconClass": "fab fa-facebook-f"
+        "iconClass": "fab fa-facebook-f",
+        "url": "https://www.facebook.com/profile.php?id=100063830730773"
       },
       {
         "id": 2,
         "link": "instagram",
-        "iconClass": "fab fa-instagram"
+        "iconClass": "fab fa-instagram",
+        "url": "https://www.instagram.com/repictheapp/"
       },
       {
         "id": 3,
         "link": "linkedin",
-        "iconClass": "fab fa-linkedin-in"
+        "iconClass": "fab fa-linkedin-in",
+        "url": "https://www.linkedin.com/company/repic-app"
       }
     ],
     "footerList_1": [
