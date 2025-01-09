@@ -126,18 +126,23 @@
     "iconList": [
       {
         "id": 1,
-        "link": "https://www.facebook.com/profile.php?id=100063830730773",
+        "link": "facebook",
         "iconClass": "fab fa-facebook-f"
       },
       {
         "id": 2,
-        "link": "https://www.instagram.com/repictheapp/",
-        "iconClass": "fab fa-instagram"
+        "link": "twitter",
+        "iconClass": "fab fa-twitter"
       },
       {
         "id": 3,
-        "link": "https://www.linkedin.com/company/repic-app",
-        "iconClass": "fab fa-linkedin-in"
+        "link": "google-plus",
+        "iconClass": "fab fa-google-plus-g"
+      },
+      {
+        "id": 4,
+        "link": "vine",
+        "iconClass": "fab fa-vine"
       }
     ],
     "footerList_1": [
