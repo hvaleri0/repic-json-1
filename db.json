@@ -172,11 +172,13 @@
     "footerList_3": [
       {
         "id": 1,
-        "image": "/img/google-play-black.png"
+        "image": "/img/google-play-black.png",
+        "url": "https://play.google.com/store/apps/details?id=io.repic.repic"
       },
       {
         "id": 2,
-        "image": "/img/app-store-black.png"
+        "image": "/img/app-store-black.png",
+        "url": "https://apps.apple.com/ca/app/repic-ai-property-analysis/id1482457506"
       }
     ]
   }
