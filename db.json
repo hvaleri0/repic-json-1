@@ -160,11 +160,13 @@
     "footerList_2": [
       {
         "id": 1,
-        "text": "Privacy Policy"
+        "text": "Privacy Policy",
+        "url": "https://docs.google.com/document/d/17UkGdoIH1O7ExNlWz34x4UCjNFPDoS_L6yjopEgQcNc/edit?usp=sharing"
       },
       {
         "id": 2,
-        "text": "Terms & Conditions"
+        "text": "Terms & Conditions",
+        "url": "https://docs.google.com/document/d/17UkGdoIH1O7ExNlWz34x4UCjNFPDoS_L6yjopEgQcNc/edit?usp=sharing"
       }
     ],
     "footerList_3": [
