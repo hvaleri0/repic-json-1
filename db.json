@@ -59,26 +59,26 @@
     ]
   },
   "themeOneWorkSection": {
-    "heading": "How sApp works?",
-    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+    "heading": "How Repic Works?",
+    "headingText": "Get started in minutes and make smarter real estate decisions.",
     "workData": [
       {
         "id": 1,
         "image": "/img/work_thumb_1.png",
         "title": "Install the App",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+        "content": "Download Repic from the App Store or Google Play and start exploring."
       },
       {
         "id": 2,
         "image": "/img/work_thumb_2.png",
-        "title": "Setup your profile",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+        "title": "Setup Your Profile",
+        "content": "Create an account or use guest access to get started instantly."
       },
       {
         "id": 3,
         "image": "/img/work_thumb_3.png",
-        "title": "Enjoy the features!",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+        "title": "Start Analyzing",
+        "content": "Add property details and let Repic calculate cash flow, ROI, and cap rates."
       }
     ]
   },
