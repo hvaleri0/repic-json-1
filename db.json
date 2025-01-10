@@ -2,27 +2,27 @@
   "themeOneFeatureSection": {
     "preHeading": "Premium",
     "preHeadingspan": "Features",
-    "heading": "What Makes sApp Different?",
-    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+    "heading": "What Makes Repic Different?",
+    "headingText": "Repic simplifies real estate investments with smarter decisions and time-saving technology.",
     "featureThumb": "/img/features_thumb.png",
     "featureData": [
       {
         "id": 1,
         "image": "/img/featured_image_1.png",
-        "title": "Fully functional",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+        "title": "Unlimited Portfolio Management",
+        "text": "Track properties, manage income and expenses, and stay organized in one app."
       },
       {
         "id": 2,
         "image": "/img/featured_image_2.png",
-        "title": "Live Chat",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+        "title": "AI-Powered Investment Insights",
+        "text": "Get tailored answers and strategies with Repic's cutting-edge AI."
       },
       {
         "id": 3,
         "image": "/img/featured_image_3.png",
-        "title": "Secure Data",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+        "title": "Distraction-Free Experience",
+        "text": "Focus on investments with ads-free, professional tools."
       }
     ]
   },
