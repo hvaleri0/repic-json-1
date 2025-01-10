@@ -38,23 +38,23 @@
     "serviceData": [
       {
         "id": 1,
-        "iconClass": "fab fa-buffer",
-        "text": "Fully layered dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+        "iconClass": "fas fa-user-check",
+        "text": "Start using Repic instantly with guest access—no account required."
       },
       {
         "id": 2,
-        "iconClass": "fas fa-brush",
-        "text": "Customizable design dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+        "iconClass": "fas fa-crown",
+        "text": "Access free tools or upgrade to premium for unlimited features."
       },
       {
         "id": 3,
-        "iconClass": "fas fa-burn",
-        "text": "Drop ipsum dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+        "iconClass": "fas fa-lock",
+        "text": "Enjoy advanced encryption to keep your data secure."
       },
       {
         "id": 4,
-        "iconClass": "fas fa-cart-arrow-down",
-        "text": "Marketing chart dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+        "iconClass": "fas fa-chart-line",
+        "text": "Track cash flow, ROI, and cap rates with ease."
       }
     ]
   },
