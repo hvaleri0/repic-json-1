@@ -85,35 +85,35 @@
   "themeOnePricingSection": {
     "iconClass": "far fa-lightbulb text-primary mr-1",
     "preHeading": "Flexible",
-    "preHeadingspan": "Pricing",
-    "heading": "Unlock Full Power Of sApp",
-    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+    "preHeadingspan": "Plans",
+    "heading": "Unlock Full Power Of Repic",
+    "headingText": "Choose a plan that fits your real estate goals—start with a 7-day free trial.",
     "text": "Not sure what to choose?",
     "textLink": "Contact Us",
     "pricingData": [
       {
         "id": 1,
         "planImage": "/img/price_basic.png",
-        "planTitle": "Basic",
+        "planTitle": "Monthly",
         "priceSub": "$",
-        "planPrice": "49",
-        "planBtn": "Sign Up",
-        "li_1": "5GB Linux Web Space",
-        "li_2": "5 MySQL Databases",
-        "li_3": "24/7 Tech Support",
-        "li_4": "Daily Backups"
+        "planPrice": "5.99",
+        "planBtn": "Start Free Trial",
+        "li_1": "Unlimited property analysis",
+        "li_2": "Custom income/expenses tracking",
+        "li_3": "AI-powered insights",
+        "li_4": "Ads-free experience"
       },
       {
         "id": 2,
         "planImage": "/img/price_premium.png",
-        "planTitle": "Pro",
+        "planTitle": "Annual",
         "priceSub": "$",
-        "planPrice": "149",
-        "planBtn": "Sign Up",
-        "li_1": "10GB Linux Web Space",
-        "li_2": "50 MySQL Databases",
-        "li_3": "Unlimited Email",
-        "li_4": "Daily Backups"
+        "planPrice": "49.99",
+        "planBtn": "Start Free Trial",
+        "li_1": "Everything in Monthly Plan",
+        "li_2": "Save 30% annually",
+        "li_3": "Best value for serious investors",
+        "li_4": "7-day free trial"
       }
     ]
   },
